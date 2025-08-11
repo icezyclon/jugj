@@ -57,7 +57,7 @@ Ein sehr schnelles Tutorial, das alle wichtigen Punkte und Fehlerquellen aufzäh
 
 ## Workshop 3.2: Audio
 
-*Ansprechpartner: Dave*
+*Ansprechpartner: Jonas*
 
 Zunächst findest du die Liste der unterstützten Musik/Datei-Formate (der jeweiligen Module) hier:
 
